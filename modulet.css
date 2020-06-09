@@ -1,0 +1,41 @@
+body{
+  background-color: springgreen;
+}
+#navbar-color{
+  background-color: olivedrab;
+}
+div h1{
+  color: purple;
+  font-family:sans-serif;
+  font-size: 40px;
+  text-shadow: 1px 1px 1px red;
+  text-transform: uppercase;
+}
+#img-logo{
+  background: url(https://i.imgur.com/0M4kOnY.jpg) no-repeat;
+  height: 90px;
+  width: 100px;
+  border-radius: 5px;
+  margin-right: 15px;
+}
+ ul a:hover{
+  background-color: red;
+}
+section>h2{
+  color:yellow;
+  text-align: center;
+  margin:20px 0px;
+}
+.navbar-header button.navbar-toggler, .navbar-header .nav-item{
+  border: 1px solid orangered;
+}
+.dubba{
+  padding:25px;
+  font-size: 25px;
+  height: 1150px;
+  background-color: steelblue;
+  color: lightblue;
+}
+.mx-auto{
+  width: 140px;
+}
