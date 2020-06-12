@@ -1,0 +1,36 @@
+body{
+  background-color:teal;
+}
+#head-nav{
+  background-color:skyblue;
+}
+h1{
+  color:teal;
+  font-family: 'Muli', sans-serif;
+  text-shadow:1px 1px 1px red;
+  text-transform: uppercase;
+  float: left;
+}
+div ul li:hover{
+  font-weight: bold;
+  font-size: 23px;
+  background-color: white;
+}
+h2{
+  color:lime;
+  margin-top:20px;
+}
+section span{
+  display:block;
+  width:130px;
+  color:blue;
+  font-size:26px;
+}
+p{
+  height:1340px;
+  color:#ca0d43;
+  font-size: 18px;
+  background-color: #f4f72e;
+  text-align: justify;
+  padding:20px;
+}
